@@ -1,0 +1,39 @@
+
+---Downloaded files---
+The import files for: Photograph Free were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://grazeanddeli.com
+Data file = /home/fhhu8q1li0cr/public_html/wp-content/plugins/theme-freesia-demo-import/files/dummy/photograph/photograph.wordpress.xml
+Widget file = /home/fhhu8q1li0cr/public_html/wp-content/plugins/theme-freesia-demo-import/files/dummy/photograph/photograph-widgets.wie
+Customizer file = /home/fhhu8q1li0cr/public_html/wp-content/plugins/theme-freesia-demo-import/files/dummy/photograph/photograph-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Gallery - Latest Photograph - Widget already exists
+photograph_tab_widgets - No Title - Site does not support widget
+
+Side Menu : 
+
+Gallery - Gallery - Widget already exists
+
+Contact Page Sidebar : 
+
+Text - About Us - Widget already exists
+Text - Our Address - Widget already exists
+
+Iframe Code For Google Maps : 
+
+Custom HTML - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tf-tfdi/after_import---
+
